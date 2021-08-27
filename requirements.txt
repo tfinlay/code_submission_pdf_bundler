@@ -1,0 +1,3 @@
+Pygments
+reportlab
+pypdf2
