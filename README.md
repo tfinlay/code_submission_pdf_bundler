@@ -11,7 +11,7 @@ Sample output can be found [here](sample/sample_output.pdf).
 
 ## Usage
 
-NB: Before running this command, you'll need a PDF of the filled-in plagiarism declaration form. This will be added to the bundled PDF in the last step.
+NB: Before running this command, you'll need a PDF of the filled-in plagiarism declaration form. This will be added to the end of bundled PDF.
 
 1. [Download a copy of this repo](https://github.com/tfinlay/code_submission_pdf_bundler/archive/refs/heads/main.zip) and unzip it somewhere.
 2. Open a terminal/command line in the unzipped repo.
