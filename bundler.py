@@ -96,9 +96,7 @@ def add_code(story):
         if filename is not None:
             display_name = input("Code file display name [{}]: ".format(filename))
 
-if __name__ == '__main__':
-    import argparse
-    
+if __name__ == '__main__':   
     styles = getSampleStyleSheet()
     
     doc = SimpleDocTemplate("out.pdf.tmp", pagesize=landscape(A4), margin=(0,0))
